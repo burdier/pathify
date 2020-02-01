@@ -29,4 +29,5 @@ def get_list():
 def get_path(name):
     if name in config.sections():
         return config[name]['path']
+    return ""
 
