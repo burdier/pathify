@@ -1,10 +1,6 @@
 # Welcome to Pathify!
 
 
-#Linux and Mac
-using python:
-  pip install pathify
-
 Stupid CLI program that enables you to create a dictionary of key:value where value is a path and key 
 are the name of workspace that you wanna go. 
 
@@ -22,6 +18,12 @@ go to [Pathify](https://asciinema.org/a/EcdNVoCuEytmjNKAXfH5cRgyx)
 > nota:
 	> Pathify save the config file in   ~/.workspace.ini
 	> The emojis are random, the command list generate these emojis.
+
+# Linux and Mac
+using python:
+
+pip install pathify
+
 
 :P can you help me with this project? yep, i wait your PR. 
 
