@@ -20,7 +20,7 @@ go to [Pathify](https://asciinema.org/a/EcdNVoCuEytmjNKAXfH5cRgyx)
 	> The emojis are random, the command list generate these emojis.
 
 # Linux and Mac
-using python:
+Using python:
 
 pip install pathify
 
