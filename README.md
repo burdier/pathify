@@ -24,6 +24,8 @@ Using python:
 
 pip install pathify
 
+Also you can clone this repo and execute this command:
+python setup.py install
 
 :P can you help me with this project? yep, i wait your PR. 
 
