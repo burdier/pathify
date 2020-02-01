@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='pathify',
-    version='0.1.1',
+    version='0.1.2',
     description="Map <key:path> for path with a key",
     url="https://github.com/burdier/pathify",
     author="Burdier",
