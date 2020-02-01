@@ -15,10 +15,11 @@ These are options until now.
 Demo:
 go to [Pathify](https://asciinema.org/a/EcdNVoCuEytmjNKAXfH5cRgyx)
 
-> Note:
-	> Pathify save the config file in   ~/.workspace.ini
-	
-	> The emojis are random, the command list generate these emojis.
+Note:
+
+Pathify save the config file in   ~/.workspace.ini 
+
+The emojis are random, the command list generate these emojis.
 
 # Linux and Mac
 Using python:
