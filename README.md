@@ -30,6 +30,6 @@ Also you can clone this repo and execute this command:
 
 python setup.py build
 
-:P can you help me with this project? yep, i wait your PR. 
+:P can you help me with this project? yep, I am waiting  your PR. 
 
 
