@@ -2,7 +2,7 @@
 
 
 Stupid CLI program that enables you to create a dictionary of key:value where value is a path and key 
-are the name of workspace that you want to  go. 
+is the name of workspace that you want to  go. 
 
 Options until now.
 
